@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstAppEndava</string>
+    <string name="click_me">Go to B</string>
+    <string name="bau">BAU</string>
+    <string name="go_on_web">Go on web</string>
+    <string name="go_to_c">Go to C</string>
+</resources>
