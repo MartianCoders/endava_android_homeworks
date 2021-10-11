@@ -19,6 +19,7 @@ class SecondActivity : AppCompatActivity() {
             val open_web_intent : Intent = Intent(Intent.ACTION_VIEW)
             open_web_intent.setData(Uri.parse(URL))
             startActivity(open_web_intent)
+            Log.i("TestLog", "Second -> Opened WEB")
         }
     }
 
